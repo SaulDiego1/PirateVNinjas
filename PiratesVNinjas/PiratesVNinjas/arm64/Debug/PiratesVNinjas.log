@@ -1,0 +1,3 @@
+﻿  Main.cpp
+\\Mac\Home\Downloads\PiratesVNinjas\PiratesVNinjas\Main.cpp(93,15): warning C4553: '==': result of expression not used; did you intend '='?
+  PiratesVNinjas.vcxproj -> \\Mac\Home\Downloads\PiratesVNinjas\arm64\Debug\PiratesVNinjas.exe
